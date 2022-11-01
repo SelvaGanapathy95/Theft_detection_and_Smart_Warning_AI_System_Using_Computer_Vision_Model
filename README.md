@@ -1,4 +1,20 @@
-# Smart Surveillance AI System Using ComputerVision
+# Research Project On Smart Surveillance AI System Using Computer Vision
+
+# Team Members
+SELVAGANAPATHY S, B.E(ECE),Product Development Specialist,INSPA ROBOTICS
+
+SHUBHAM TRIVEDI, B.E(CSE),Junior ML Engineer,Omdena
+
+ADIYANTHY VELPANDIAN, B.TECH(CSE) III-Year
+
+AHAAN SINGH MAURYA, 10th Grade
+
+# Project Facilitators
+Mr. BASIL SUNNY, Machine Learning Expert, Founder VOOXOLABS
+
+Mr. SARTHAK NARNOR, AI Trainer, Aeronautical Engineer
+
+# Project Outcome
 The aim of this project is to pave the way to explore the application of artificial intelligence to the surveillance industry which provides effective but cheaper AI-based products so that everyone from the biggest banks to small business owners can rip the benefits of AI for security purposes
 
 ## General Project idea:
